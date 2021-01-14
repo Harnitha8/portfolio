@@ -6,7 +6,7 @@
     width: auto;
 }
 .a{
-    margin-bottom: 120px;
+    margin-bottom: 320px;
 }
 .a11 a{
     text-transform: uppercase;
@@ -62,7 +62,7 @@
 .me{
     position:absolute;
     top: 60%;
-    left:16%;
+    left:36%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .me > h1{
