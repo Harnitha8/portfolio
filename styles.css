@@ -125,18 +125,21 @@ input[type=text], select, textarea {
       color:midnightblue;
       background-color: aqua;;
   }
- @media screen and (max-width: 700px) {
+  @media screen and (max-width: 600px) {
       .me{
-    position:absolute;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-     font-size:10px; 
-          color: transparent;
-     }
+          position: relative;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 10px;
+        position:absolute;
+        top: 60%;
+        left:36%;
+        color: transparent
+      }
       .text1{
         font-size:40px;
         font-weight:600;
         letter-spacing: 6px;
-        margin-bottom: 10px;
+        margin-bottom: 20px;
         margin-top: 20px;
         color:white;
         background: black;
@@ -147,5 +150,6 @@ input[type=text], select, textarea {
         font-size: 30px;
         color:darkred;
         background-color: white;
+        margin-bottom: 0;
     }
     }
