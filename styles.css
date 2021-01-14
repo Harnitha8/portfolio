@@ -125,7 +125,7 @@ input[type=text], select, textarea {
       color:midnightblue;
       background-color: aqua;;
   }
- @media screen and (max-width: 600px) {
+ @media screen and (max-width: 700px) {
       .me{
     position:absolute;
     top: 30%;
