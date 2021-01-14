@@ -125,3 +125,28 @@ input[type=text], select, textarea {
       color:midnightblue;
       background-color: aqua;;
   }
+ @media screen and (max-width: 600px) {
+      .me{
+        position:absolute;
+        top: 60%;
+        left:36%;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 10px;
+      }
+      .text1{
+        font-size:40px;
+        font-weight:600;
+        letter-spacing: 6px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        color:white;
+        background: black;
+        position:relative;
+        animation: text 2s 1;
+    }
+    .text2{
+        font-size: 30px;
+        color:darkred;
+        background-color: white;
+    }
+    }
