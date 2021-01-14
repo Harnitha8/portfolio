@@ -128,7 +128,7 @@ input[type=text], select, textarea {
  @media screen and (max-width: 600px) {
       .me{
         position:absolute;
-        top: 40%;
+        top: 50%;
         left:36%;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         font-size: 10px;
