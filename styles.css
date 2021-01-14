@@ -130,7 +130,7 @@ input[type=text], select, textarea {
           position: relative;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         font-size: 8px;
-          top:20;
+          top:20%;
       }
       .text1{
         font-size:40px;
