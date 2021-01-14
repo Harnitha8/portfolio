@@ -127,7 +127,6 @@ input[type=text], select, textarea {
   }
  @media screen and (max-width: 600px) {
       .me{
-        position:absolute;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         font-size: 10px;
       }
@@ -135,7 +134,7 @@ input[type=text], select, textarea {
         font-size:40px;
         font-weight:600;
         letter-spacing: 6px;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
         margin-top: 20px;
         color:white;
         background: black;
